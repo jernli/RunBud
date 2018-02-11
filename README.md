@@ -1,5 +1,5 @@
 Learning React Native framework
 
-![Alt text](/screenshots/loginpage.png){:height="30%" width="30%"}
-![Alt text](/screenshots/registerpage.png){:height="30%" width="30%"}
-![Alt text](/screenshots/profilepage.png){:height="30%" width="30%"}
+<img src="https://github.com/jernli/RunBud/blob/master/screenshots/loginpage.png" width="124" height="220">
+<img src="https://github.com/jernli/RunBud/blob/master/screenshots/registerpage.png" width="124" height="220">
+<img src="https://github.com/jernli/RunBud/blob/master/screenshots/profilepage.png" width="124" height="220">
