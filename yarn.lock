@@ -3512,7 +3512,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.8, prop-types@^15.6.0:
+prop-types@^15.5.10, prop-types@^15.5.8, prop-types@^15.6.0:
   version "15.6.0"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.0.tgz#ceaf083022fc46b4a35f69e13ef75aed0d639856"
   dependencies:
@@ -3590,6 +3590,12 @@ react-devtools-core@3.0.0:
   dependencies:
     shell-quote "^1.6.1"
     ws "^2.0.3"
+
+react-native-pagecontrol@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-pagecontrol/-/react-native-pagecontrol-4.0.0.tgz#7ccf10e50f293a171ac4157b8c238c6b2f78576c"
+  dependencies:
+    prop-types "^15.5.10"
 
 react-native@0.53.0:
   version "0.53.0"
