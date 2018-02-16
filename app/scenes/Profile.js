@@ -21,7 +21,7 @@ export default class Profile extends Component{
 				</View>
 
 				<View style={styles.name}>
-					<Text style={styles.nameText}>Kwang Jern Lee</Text>
+					<Text style={styles.nameText}>jernli</Text>
 				</View>
 
 				<View style={styles.runnersDescription}>
@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
 
 	personalDescriptionText:{
 		fontSize:12,
-		marginBottom: 40
+		marginBottom: 20
 	},
 
 	columnOne:{
